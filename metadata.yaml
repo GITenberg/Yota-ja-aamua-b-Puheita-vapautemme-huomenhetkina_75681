@@ -1,0 +1,38 @@
+_repo: Yota-ja-aamua-b-Puheita-vapautemme-huomenhetkina_75681
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Talvio, Maila
+    alias: Mikkola, Maila Winter
+    birthdate: 1871
+    deathdate: 1951
+    gutenberg_agent_id: '39128'
+    url: http://www.gutenberg.org/2009/agents/39128
+    wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
+description: ''
+gutenberg_issued: '2025-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75681'
+language: fi
+pgterms:marc905: 20250124072102talvio
+pgterms:marc906: '1919'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1919.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finland -- History -- Civil War, 1918'
+- !lcsh 'Finland -- History -- Civil War, 1918 -- Fiction'
+- !lcsh 'Speeches, addresses, etc., Finnish'
+- !lcc 'PH'
+- GITenberg
+tableOfContents: Lunnaat -- Osaveljillemme kärsimyksessä -- Viimeiset veljekset --
+  Ristiinnaulitulle kansojen joukossa -- Satakielten maa -- Uudenvuoden kasvojen edessä
+  -- Kansa ja koti -- Ystävämme kirjat -- Kalliit haudat -- Helmet -- Kuolleet ja
+  eloonjääneet.
+title: 'Yötä ja aamua : $b Puheita vapautemme huomenhetkinä'
+url: http://www.gutenberg.org/ebooks/75681
