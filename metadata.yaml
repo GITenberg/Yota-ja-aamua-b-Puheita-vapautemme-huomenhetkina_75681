@@ -1,5 +1,8 @@
 _repo: Yota-ja-aamua-b-Puheita-vapautemme-huomenhetkina_75681
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Talvio, Maila
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39128
     wikipedia: https://fi.wikipedia.org/wiki/Maila_Talvio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75681#Yota-ja-aamua-b-Puheita-vapautemme-huomenhetkina
 gutenberg_issued: '2025-03-21'
 gutenberg_type: Text
 identifiers:
